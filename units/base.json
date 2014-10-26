@@ -1,0 +1,27 @@
+{
+	"number": 0,
+	"unit": "",
+	"reality": 0,
+	"weapon": "",
+	"attribute": "",
+	"minHP": 0,
+	"minATK": 0,
+	"minREC": 0,
+	"maxHP": 0,
+	"maxATK": 0,
+	"maxREC": 0,
+	"maxLevel": 0,
+	"requirePoint": 0,
+	"maxExp": 0,
+	"partySkill": "",
+	"activeSkill": null,
+	"panelSkill": null,
+	"prevUnit": null,
+	"nextUnit": null,
+	"story": "",
+	"word": [
+		"",
+		"",
+		""
+	]
+}
